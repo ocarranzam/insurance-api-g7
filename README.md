@@ -1,0 +1,2 @@
+# insurance-api-g7
+API LKM PARA PRIMAS DE SEGUROS
